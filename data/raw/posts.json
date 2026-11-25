@@ -1,0 +1,21 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Example post",
+      "body": "Example content for format exploration.",
+      "tags": [
+        "demo"
+      ],
+      "reactions": {
+        "likes": 2,
+        "dislikes": 0
+      },
+      "views": 20,
+      "userId": 1
+    }
+  ],
+  "total": 1,
+  "skip": 0,
+  "limit": 1
+}

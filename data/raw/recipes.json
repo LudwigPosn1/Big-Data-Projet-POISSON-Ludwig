@@ -1,0 +1,32 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Example recipe",
+      "ingredients": [
+        "ingredient A",
+        "ingredient B"
+      ],
+      "instructions": [
+        "Step 1",
+        "Step 2"
+      ],
+      "prepTimeMinutes": 10,
+      "cookTimeMinutes": 20,
+      "servings": 2,
+      "difficulty": "Easy",
+      "cuisine": "Demo",
+      "caloriesPerServing": 200,
+      "tags": [
+        "demo"
+      ],
+      "userId": 1,
+      "image": "",
+      "rating": 4.5,
+      "reviewCount": 10
+    }
+  ],
+  "total": 1,
+  "skip": 0,
+  "limit": 1
+}

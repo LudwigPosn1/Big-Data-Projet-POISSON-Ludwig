@@ -1,0 +1,12 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "quote": "Example quote for JSON structure.",
+      "author": "Demo author"
+    }
+  ],
+  "total": 1,
+  "skip": 0,
+  "limit": 1
+}

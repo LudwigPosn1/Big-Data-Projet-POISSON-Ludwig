@@ -1,0 +1,13 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "todo": "Explore a dataset",
+      "completed": false,
+      "userId": 1
+    }
+  ],
+  "total": 1,
+  "skip": 0,
+  "limit": 1
+}

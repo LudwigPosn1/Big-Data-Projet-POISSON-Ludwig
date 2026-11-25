@@ -1,0 +1,54 @@
+{
+  "carts": [
+    {
+      "id": 1,
+      "products": [
+        {
+          "id": 1,
+          "title": "Essence Mascara Lash Princess",
+          "price": 9.99,
+          "quantity": 2,
+          "total": 19.98,
+          "discountPercentage": 7.17,
+          "discountedTotal": 18.55
+        },
+        {
+          "id": 2,
+          "title": "Eyeshadow Palette",
+          "price": 19.99,
+          "quantity": 1,
+          "total": 19.99,
+          "discountPercentage": 5,
+          "discountedTotal": 18.99
+        }
+      ],
+      "total": 39.97,
+      "discountedTotal": 37.54,
+      "userId": 1,
+      "totalProducts": 2,
+      "totalQuantity": 3
+    },
+    {
+      "id": 2,
+      "products": [
+        {
+          "id": 3,
+          "title": "Powder Canister",
+          "price": 14.99,
+          "quantity": 3,
+          "total": 44.97,
+          "discountPercentage": 10,
+          "discountedTotal": 40.47
+        }
+      ],
+      "total": 44.97,
+      "discountedTotal": 40.47,
+      "userId": 2,
+      "totalProducts": 1,
+      "totalQuantity": 3
+    }
+  ],
+  "total": 2,
+  "skip": 0,
+  "limit": 2
+}
